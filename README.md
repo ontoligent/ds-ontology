@@ -1,2 +1,1 @@
-# ds-ontology
-An Ontology of Data Science
+# An Ontology of Data Science
